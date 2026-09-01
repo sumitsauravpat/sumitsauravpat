@@ -34,10 +34,11 @@ Contact with me via:
 
 **My Technical Skills:**
 
-- **Automation:** Cypress, WebdriverIO, Selenium, Karate, Page Object Model
+- **Automation:** Cypress, WebdriverIO, Selenium, Karate, Cucumber BDD, Page Object Model
 - **Programming:** JavaScript, Python, Java
 - **AI Engineering:** LLM-as-Judge, DeepEval, RAGAS, MCP, Claude Code, Prompt Engineering
-- **API Testing:** ReadyAPI, Postman, REST
+- **API Testing:** ReadyAPI, Postman, REST, REST Assured
+- **Database:** SQL
 - **CI/CD:** GitHub Actions, Jenkins, n8n
 - **Cloud/Infra:** AWS
 - **Bug Tracking/Project Management:** JIRA, Confluence
