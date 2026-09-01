@@ -26,7 +26,9 @@ Contact with me via:
   auto-compares CI runs and surfaces only new regressions. Used daily by
   12+ QA engineers.
 
-**Now building in the open:** [cypress-ai-eval](https://github.com/sumitsauravpat/cypress-ai-eval) — an AI evaluation pipeline built from scratch.
+**Now building in the open:**
+- [cypress-ai-eval](https://github.com/sumitsauravpat/cypress-ai-eval) — an AI evaluation pipeline built from scratch.
+- [ci-regression-diff-bot](https://github.com/sumitsauravpat/ci-regression-diff-bot) — compares two CI runs and surfaces only new regressions, filtering out already-known failures.
 
 ---
 
