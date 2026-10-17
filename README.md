@@ -22,7 +22,9 @@ ownership means understanding the whole stack, not just the test layer.
 Still learning. Still shipping. Still genuinely enjoying it.
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/sumit-saurav120/) · [Email](mailto:sumitsauravpat@gmail.com) · [Portfolio](https://sumitsauravpat.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-saurav120/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitsauravpat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumitsauravpat.github.io)
 
 ---
 
