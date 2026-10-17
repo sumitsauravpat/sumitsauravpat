@@ -26,8 +26,10 @@
   - 💬 Ask me about: AI-augmented testing, agentic workflows, or why your load test numbers might be lying to you
   - ⚡ Fun fact: ran the same k6 script locally, in Docker, and through BlazeMeter's cloud — just to prove the ~70ms real-network-latency gap most teams never actually measure
 
-  ### Contact
-  **[LinkedIn](https://www.linkedin.com/in/sumit-saurav120/)** · **[Email](mailto:sumitsauravpat@gmail.com)** · **[Portfolio](https://sumitsauravpat.github.io)**
+### Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-saurav120/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitsauravpat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumitsauravpat.github.io)
 
   ---
 
